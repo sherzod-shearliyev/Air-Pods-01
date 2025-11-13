@@ -1,12 +1,12 @@
-@import url(./font.css)
+@import url(./font.css);
 
-;root{
+:root{
     --mr : 'mr',sans-serif;
     --mb : 'mbr',sans-serif;
     --mm : 'mm',sans-serif;
     --primary:#000;
     --secondary:#fff;
-    --sark-gray:#282828;
+    --dark-gray:#282828;
 }
 
 *{
@@ -17,7 +17,7 @@
 }
 
 .page__header{
-    background-color: var(--sark-gray);
+    background-color: var(--dark-gray);
     padding-block: 6px;
 }
 
