@@ -1,15 +1,20 @@
 @font-face {
-    font-family: 'mr';
-    src: url(../font/Montserrat-Regular.ttf);
-}
-
-@font-face {
-    font-family: 'mb';
+    font-family: 'MB';
     src: url(../font/Montserrat-Bold.ttf);
 }
 
 @font-face {
-    font-family: 'mm';
+    font-family: 'MR';
+    src: url(../font/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'MM';
     src: url(../font/Montserrat-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Prosto-One';
+    src: url(../font/ProstoOne-Regular.ttf);
 }
 
